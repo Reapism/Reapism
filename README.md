@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Professional software engineer looking to learn/adopt the latest technologies and project designs.
+Professional software engineer, and YouTuber looking to learn/adopt the latest technologies and project designs and create various content.
+
+📺 I love to share my experience on [YouTube](https://www.youtube.com/c/anthonyjaghab)!
 
 *I am currently absorbing Domain Driven Design (DDD)*
 
